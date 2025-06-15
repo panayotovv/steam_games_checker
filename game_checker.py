@@ -38,7 +38,7 @@ def get_game_names(appids):
 
 
 def main():
-    api_key = "1B6F7DB79C1DD8E93E8D251F1B3E1B1E"
+    api_key = ""
 
     while True:
         profile_input = input("Enter SteamID64 or vanity URL/name: ").strip()
